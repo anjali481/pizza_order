@@ -13,7 +13,7 @@ const connectDB =async ()=>{
         url,{
             useUnifiedTopology:true,
             useNewUrlParser:true,
-            useCreateIndex:true
+           //  useCreateIndex:true
         }
     )
 
